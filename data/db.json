@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Job searching",
+      "details": "try to connect with people in tech on Linkendin and ask if they can assist in my quest for internship opportunities",
+      "compelete": false,
+      "id": 3
+    },
+    {
+      "title": "Work on my E-commerce project",
+      "details": "still alot of work to be done on this",
+      "compelete": false,
+      "id": 4
+    }
+  ]
+}
